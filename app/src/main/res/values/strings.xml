@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Konversisuhu</string>
+    <string name="string_konversi" />
+    <string name="celsius_ke_fahrenheit">Celsius Ke Fahrenheit</string>
+    <string name="celsius">Celsius</string>
+    <string name="fahrenheit_ke_celsius">Fahrenheit Ke Celsius</string>
+    <string name="fahrenheit">Fahrenheit</string>
+    <string name="konversi">konversi</string>
+</resources>
